@@ -68,4 +68,14 @@ Code mẫu bên trên đang có 2 scope, nhưng thực tế cần nhiều scope 
 
 ## Web template / SPA
 
+### Target
+
+- Thymeleaf
+- Thymeleaf extensions (thymeleaf-spring-security, thymeleaf-layout-dialect)
+
 ## UI components library
+
+### Target
+
+- Bootstrap 5
+- Alpine.js
