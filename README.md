@@ -66,6 +66,10 @@ Code mẫu bên trên đang có 2 scope, nhưng thực tế cần nhiều scope 
 
 - Các @Annotation như @AuthenticationPrincipal có tại [Spring MVC Integration](https://docs.spring.io/spring-security/reference/servlet/integrations/mvc.html)
 
+### Ref
+
+- Cấu hình interceptor trong RestClient, tham khảo [OAuth2ClientHttpRequestInterceptor](https://docs.spring.io/spring-security/reference/api/java/org/springframework/security/oauth2/client/web/client/OAuth2ClientHttpRequestInterceptor.html)
+
 ## Web template / SPA
 
 ### Target
